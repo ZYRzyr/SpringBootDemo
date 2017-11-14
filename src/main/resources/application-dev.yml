@@ -1,0 +1,5 @@
+#Book.java的属性
+book:
+  name: ${random.value} #赋值随机字符串
+  price: ${random.int}  #赋值随机整数
+  page: ${random.int}   #赋值随机整数

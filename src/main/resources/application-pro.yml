@@ -1,0 +1,5 @@
+#Book.java的属性
+book:
+  name: 一本书
+  price: 35.5
+  page: 128
