@@ -6,3 +6,6 @@
 [branch:3-FormValidate](https://github.com/ZYRzyr/SpringBootDemo/tree/3-FormValidate)——[Spring Boot实际应用讲解（三）：表单验证](http://www.jianshu.com/p/a2b4e61b5532)
 
 [branch:4-RESTful](https://github.com/ZYRzyr/SpringBootDemo/tree/4-RESTful)——[Spring Boot实际应用讲解（四）：RESTful API](http://www.jianshu.com/p/e907595e9d1d)
+
+[branch:5-AOP](https://github.com/ZYRzyr/SpringBootDemo/tree/5-AOP)——[Spring Boot实际应用讲解（五）：AOP之请求日志
+](http://www.jianshu.com/p/93216bf41182)
