@@ -7,5 +7,6 @@
 
 [branch:4-RESTful](https://github.com/ZYRzyr/SpringBootDemo/tree/4-RESTful)——[Spring Boot实际应用讲解（四）：RESTful API](http://www.jianshu.com/p/e907595e9d1d)
 
-[branch:5-AOP](https://github.com/ZYRzyr/SpringBootDemo/tree/5-AOP)——[Spring Boot实际应用讲解（五）：AOP之请求日志
-](http://www.jianshu.com/p/93216bf41182)
+[branch:5-AOP](https://github.com/ZYRzyr/SpringBootDemo/tree/5-AOP)——[Spring Boot实际应用讲解（五）：AOP之请求日志](http://www.jianshu.com/p/93216bf41182)
+
+[branch:6-jpa](https://github.com/ZYRzyr/SpringBootDemo/tree/6-jpa)——[Spring Boot实际应用讲解（六）：MySQL + Spring-data-jpa(Hibernate)](http://www.jianshu.com/p/b204472d8126)
