@@ -3,3 +3,12 @@ book:
   name: 一本书
   price: 35.5
   page: 128
+
+spring:
+  jpa:
+    #hibernate实现jpa
+    hibernate:
+      #数据表的创建方式
+      ddl-auto: 
+    #是否在控制台显示SQL语句
+    show-sql: true
